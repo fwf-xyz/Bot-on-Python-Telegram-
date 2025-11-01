@@ -1,7 +1,7 @@
 # Bot-on-Python-Telegram-
 a 21 days run from zero code to working bot
 
-Hi all! This is file was created for to mount roadmap here and my notes:
+Hi all! This is file was created for to mount roadmap and my notes here:
 
    # Week 1: Фундамент и базовый функционал
 
